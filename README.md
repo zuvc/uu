@@ -12,7 +12,7 @@
 <a href="https://www.wowenda.com/">云盘搜索</a>  <a href="https://www.xiaobaipan.com/">小白盘</a>  <a href="https://pansoso.com/">盘搜搜</a>  <a href="https://www.jiumodiary.com/">鸠摩搜索</a>  <a href="https://www.laisoyixia.com/">来搜一下</a>  <a href="https://www.xiaozhukuaipan.com/">小猪快盘</a>  <a href="https://yiso.fun/">易搜</a>    
 </div>
 <div>
-<a href="https://github.com/">github</a>	<a href="https://agit.ai/">agit</a>  <a href="https://notabug.org/">notabug</a>  <a href="https://gitcode.net/explore">gitcode</a>  <a href="https://github.com/u9u9/cc/edit/gh-pages/index.html">编辑导航</a>  
+<a href="https://github.com/">github</a>	<a href="https://agit.ai/">agit</a>  <a href="https://notabug.org/">notabug</a>  <a href="https://gitcode.net/explore">gitcode</a>  <a href="https://github.com/zuvc/uu/edit/main/README.md">编辑导航</a>  
 </div>
 
 
